@@ -9,6 +9,7 @@ I'm always thinking of you
 your eyes bloe my pene
 and your bobs take me crazy
 
+<<<<<<< HEAD
 Becouze you are beautiful
 my heart gooes faster and faster
 The moon is hig and the cloud are dark
@@ -17,3 +18,6 @@ and a bird sing lalala
 ---------------------------------
 
 My heart goes boomm
+=======
+I'am carol and I'am thinkin what to write...
+>>>>>>> Carol
