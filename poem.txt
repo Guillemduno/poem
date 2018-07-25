@@ -1,3 +1,11 @@
 /*THIS IS A POEM*/
 
+<<<<<<< HEAD
 I'm in de Developer branch.
+=======
+I'am editing in a branch called Guillem
+
+Title: The name of you
+
+I always thing of you.
+>>>>>>> Guillem
