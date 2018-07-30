@@ -16,8 +16,16 @@ MYHEART
 
 My heart goes boomm
 I'am carol and I'am thinkin what to write
+<<<<<<< HEAD
 Iwant to fuck you all day and night
 
 New p by Albert
 
 Lakljlaksjdklasjdklajkldalkjsdalk
+=======
+
+
+
+New paragraph
+blablabla
+>>>>>>> Guillem
