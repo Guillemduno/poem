@@ -29,3 +29,7 @@ I'am carol
 
 lalala
 >>>>>>> Carol
+
+
+New paragraph
+blablabla
